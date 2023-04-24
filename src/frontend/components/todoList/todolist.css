@@ -1,0 +1,12 @@
+.TodoListContainer{
+    width: 35vw;
+    height: 55vh;
+    border: 3px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.TodoList{
+    list-style-type: none;
+}

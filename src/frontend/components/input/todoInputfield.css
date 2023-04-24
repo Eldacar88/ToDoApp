@@ -1,0 +1,23 @@
+#TodoInputfield{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    width: 35vw;
+}
+
+.Buttonfield {
+    display: flex;
+    gap: 120px;
+}
+
+.InputContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+#Actionbutton{
+    background-color: black;
+    width: 7vw;
+    height: 5vh;  
+}
